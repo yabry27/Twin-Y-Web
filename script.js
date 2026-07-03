@@ -111,6 +111,6 @@ form.addEventListener("submit", (event) => {
     `Hello Twin Y, my name is ${name}. I need help with ${need}. Contact: ${contact}. Message: ${message || "No extra message."}`
   );
 
-  formNote.innerHTML = `Message ready. <a href="https://wa.me/251941528216?text=${whatsappText}" target="_blank" rel="noopener">Open WhatsApp</a>`;
+  formNote.innerHTML = `Message ready. <a href="https://wa.me/251919104454?text=${whatsappText}" target="_blank" rel="noopener">Open WhatsApp</a>`;
   form.reset();
 });
