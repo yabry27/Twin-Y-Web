@@ -82,6 +82,16 @@ textarea {
   font-size: 0.76rem;
 }
 
+.brand-logo {
+  width: 54px;
+  height: 54px;
+  object-fit: contain;
+  border-radius: var(--radius);
+  background: var(--ink);
+  padding: 4px;
+  box-shadow: 0 10px 24px rgba(22, 33, 47, 0.2);
+}
+
 .brand-mark {
   width: 46px;
   height: 46px;
